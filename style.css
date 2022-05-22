@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 1.2rem;
+}
+body {
+  width: 100%;
+}
+
+nav {
+  display: flex;
+}
+.nav_logo {
+  background-color: #7fffd4;
+  width: 33.33%;
+  padding: 1rem;
+  color: white;
+  font-size: ;
+  text-align: center;
+  vertical-align: auto;
+}
+.nav_menu {
+  background-color: #87cefa;
+  width: 66.66%;
+  padding: 1rem;
+  color: white;
+  font-size: ;
+  text-align: center;
+  vertical-align: auto;
+}
+.banner {
+  background-color: red;
+  width: 100%;
+  padding: 4rem;
+  color: white;
+  font-size: ;
+  text-align: center;
+  vertical-align: auto;
+}
+.main_first {
+  display: flex;
+}
+.main_first-ustbolum {
+  border: 0.5px solid #808080;
+  background-color: #adff2f;
+  width: 33.33%;
+  height: 16.6rem;
+  color: white;
+  font-size: ;
+  text-align: center;
+  vertical-align: top;
+}
+.main_second {
+  display: flex;
+}
+.main_second-altbolum {
+  background-color: #ff6347;
+  width: 25%;
+  padding: 1rem;
+  color: white;
+  font-size: ;
+  text-align: center;
+  vertical-align: auto;
+  border: 0.5px solid #808080;
+}
+.main_second-altbolum2 {
+  background-color: #ff6347;
+  width: 50%;
+  padding: 1rem;
+  color: white;
+  font-size: ;
+  text-align: center;
+  vertical-align: auto;
+  border: 0.5px solid #808080;
+}
+.footer {
+  background-color: #ee82ee;
+  width: 100%;
+  padding: 2rem;
+  color: white;
+  font-size: ;
+  text-align: center;
+  vertical-align: auto;
+}
