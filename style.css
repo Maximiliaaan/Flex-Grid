@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-size: 1rem;
 }
 body {
   width: 100%;
@@ -45,7 +44,7 @@ nav {
   border: 0.5px solid #808080;
   background-color: #adff2f;
   width: 33.33%;
-  height: 15rem;
+  height: 19rem;
   color: white;
   font-size: ;
   text-align: center;
